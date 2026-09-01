@@ -146,7 +146,7 @@ supportiq/
 
 ```bash
 # 1. Clone and enter the project
-git clone https://github.com/your-username/supportiq.git
+git clone https://github.com/amartyasingh-code/Support_IQ
 cd supportiq
 
 # 2. Create and activate a virtual environment
