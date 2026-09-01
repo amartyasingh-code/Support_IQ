@@ -1,0 +1,59 @@
+NOVAPAY DIGITAL BANK
+KYC (KNOW YOUR CUSTOMER) REQUIREMENTS AND PROCEDURES
+Document ID: POL-KYC-004 | Version 3.0 | Effective: January 1, 2026
+
+1. REGULATORY BASIS
+NovaPay Digital Bank's KYC policy is governed by the Prevention of Money Laundering Act (PMLA) 2002, RBI Master Direction on KYC (2016, updated 2023), and SEBI guidelines where applicable. All customers must complete KYC before accessing full banking services.
+
+2. KYC CATEGORIES
+2.1 Minimum KYC (Limited KYC):
+    - Valid for accounts opened via Aadhaar OTP-based eKYC
+    - Maximum balance: INR 1,00,000
+    - Maximum total credits per year: INR 2,00,000
+    - No international transactions permitted
+    - Must be upgraded to Full KYC within 12 months
+
+2.2 Full KYC:
+    - Unlocks all NovaPay account features and transaction limits
+    - Required for credit cards, loans, and fixed deposits
+    - No balance or transaction restrictions (subject to account type)
+
+3. ACCEPTABLE IDENTITY DOCUMENTS (OVDs — Officially Valid Documents)
+3.1 Any ONE of the following is accepted as proof of identity:
+    - Aadhaar Card (mandatory for eKYC; voluntary for physical KYC)
+    - Passport
+    - Voter Identity Card
+    - Driving License
+    - NREGA Job Card
+    - National Population Register Letter
+
+3.2 Proof of Address (if address differs from identity document):
+    - Utility bills (electricity, water, gas) — not older than 3 months
+    - Bank account statement — not older than 3 months
+    - Property tax receipt
+    - Rent agreement (registered)
+
+4. KYC COMPLETION METHODS
+4.1 Video KYC (V-CIP): Customers complete KYC via a live video call with a NovaPay KYC officer. Available 9 AM – 6 PM, Monday to Saturday. Required documents must be physically held up during the call.
+
+4.2 eKYC via Aadhaar OTP: Instant KYC using Aadhaar number and OTP. Subject to UIDAI consent. Results in Minimum KYC status.
+
+4.3 Branch KYC: Customers visit any NovaPay branch with original documents. Full KYC status granted immediately upon successful verification.
+
+4.4 Doorstep KYC: Available in select cities. A NovaPay representative visits the customer's registered address. Appointment required via app.
+
+5. KYC RENEWAL
+5.1 KYC documents must be renewed every 10 years for low-risk customers, every 8 years for medium-risk customers, and every 2 years for high-risk customers.
+5.2 NovaPay will send renewal reminders 90 days, 60 days, and 30 days before expiry.
+5.3 Failure to complete KYC renewal will result in account restrictions: debit-only access until renewal is completed.
+
+6. KYC REJECTION AND APPEALS
+6.1 If KYC is rejected, the customer will receive a written explanation of the reason within 5 working days.
+6.2 Common rejection reasons: document mismatch, expired documents, photograph not matching, address proof older than 3 months.
+6.3 Customers may resubmit corrected documents within 30 days of rejection notice.
+6.4 Appeals against repeated rejections can be made to the NovaPay Grievance Officer.
+
+7. DATA PROTECTION
+7.1 KYC documents are stored in encrypted form as per RBI data localization guidelines.
+7.2 KYC data is not shared with third parties without customer consent, except where mandated by law.
+7.3 Customers may request access to their stored KYC data under DPDP Act 2023.

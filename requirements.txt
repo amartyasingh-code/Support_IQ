@@ -1,0 +1,15 @@
+langchain
+langchain-groq
+langchain-community
+langchain-chroma
+langgraph
+langchain-huggingface
+chromadb
+sentence-transformers
+rank-bm25
+ragas
+langsmith
+streamlit
+python-dotenv
+pytest
+rich

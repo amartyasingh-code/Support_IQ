@@ -1,0 +1,57 @@
+NOVAPAY DIGITAL BANK
+UPI TRANSACTION DISPUTE RESOLUTION POLICY
+Document ID: POL-UPI-003 | Version 2.1 | Effective: January 1, 2026
+
+1. OVERVIEW
+NovaPay Digital Bank is a member of the National Payments Corporation of India (NPCI) UPI ecosystem. This policy governs dispute resolution for UPI transactions initiated through the NovaPay app or any UPI-enabled application linked to a NovaPay account.
+
+2. COMMON UPI DISPUTE CATEGORIES
+2.1 Transaction pending but amount debited — transaction shows pending on UPI but account has been debited
+2.2 Amount debited but not credited to beneficiary — money left sender's account but did not reach recipient
+2.3 Incorrect beneficiary credited — wrong UPI ID or mobile number used
+2.4 Duplicate transaction — same payment processed twice
+2.5 Fraudulent/unauthorized transaction — transaction initiated without customer's knowledge or consent
+2.6 Transaction declined but amount debited — transaction failed but amount was deducted
+
+3. TRANSACTION TIMELINES AND AUTO-REVERSAL
+3.1 Failed UPI transactions where the amount has been debited are automatically reversed within:
+    - Same bank transactions (NovaPay to NovaPay): Within 1 working day
+    - Inter-bank transactions: Within 3 working days
+    - Technical failure cases: Within 5 working days
+3.2 If auto-reversal does not occur within the above timelines, customers must raise a formal dispute.
+
+4. RAISING A UPI DISPUTE
+4.1 Disputes can be raised through:
+    - NovaPay app: Go to Transaction History → Select Transaction → Raise Dispute
+    - Customer Support: 1800-XXX-XXXX (24x7 for UPI disputes)
+    - Email: upi-disputes@novapay.in
+4.2 Required information for dispute:
+    - Transaction ID (UPI Reference Number / UTR)
+    - Transaction date and amount
+    - Beneficiary UPI ID or mobile number
+    - Nature of dispute
+
+5. RESOLUTION TIMELINES (AS PER NPCI MANDATE)
+5.1 NovaPay acknowledges the dispute within 24 hours of receipt.
+5.2 Resolution timelines by category:
+    - Pending transactions / amount not credited: 3 working days
+    - Duplicate transactions: 5 working days
+    - Fraudulent transactions: 7 working days (investigation required)
+    - Incorrect beneficiary: Up to 30 working days (requires beneficiary bank cooperation)
+5.3 If NovaPay is unable to resolve within the mandated timeline, a provisional credit may be issued pending investigation.
+
+6. INCORRECT BENEFICIARY TRANSACTIONS
+6.1 If money is sent to an incorrect UPI ID, NovaPay will initiate a retrieval request with the beneficiary's bank.
+6.2 Recovery is subject to the beneficiary's consent and cooperation. NovaPay cannot force recovery without a court order.
+6.3 If the beneficiary refuses to return the funds, customers are advised to file a complaint with the cybercrime portal (cybercrime.gov.in) or local police.
+6.4 NovaPay will provide all transaction details required for legal proceedings.
+
+7. FRAUD PREVENTION AND CUSTOMER RESPONSIBILITIES
+7.1 Customers must never share UPI PIN, OTP, or linked account credentials with anyone, including NovaPay representatives.
+7.2 NovaPay representatives will never ask for UPI PIN or OTP.
+7.3 Customers who share credentials are liable for resulting losses; zero liability protection does not apply.
+7.4 Customers are advised to enable transaction limits and SMS alerts for all UPI transactions.
+
+8. COMPENSATION FOR DELAYED RESOLUTION
+8.1 As per RBI guidelines, if NovaPay fails to resolve a valid UPI dispute within the mandated timeline, customers are entitled to compensation of INR 100 per day of delay, up to a maximum of INR 10,000.
+8.2 Compensation is credited automatically to the customer's linked savings account.

@@ -1,0 +1,63 @@
+NOVAPAY DIGITAL BANK
+PERSONAL LOAN ELIGIBILITY AND APPLICATION POLICY
+Document ID: POL-LOAN-005 | Version 1.5 | Effective: January 1, 2026
+
+1. LOAN PRODUCTS OFFERED
+1.1 NovaPay Personal Loan: Unsecured loan for personal use (medical, education, travel, home renovation, etc.)
+1.2 NovaPay Salary Advance: Short-term advance against salary for salaried customers
+1.3 NovaPay Credit Line: Pre-approved revolving credit facility for eligible customers
+
+2. PERSONAL LOAN ELIGIBILITY CRITERIA
+2.1 Age: 21 to 58 years at the time of application (60 years for self-employed)
+2.2 Employment status:
+    - Salaried: Minimum 6 months with current employer; minimum 2 years total work experience
+    - Self-employed: Minimum 3 years of business continuity; ITR filed for last 2 years
+2.3 Minimum monthly income:
+    - Metro cities (Mumbai, Delhi, Bengaluru, Chennai, Hyderabad, Kolkata): INR 25,000
+    - Tier 2 cities: INR 20,000
+    - Other locations: INR 15,000
+2.4 Credit score: Minimum CIBIL score of 700 required. Score below 650 results in automatic rejection.
+2.5 Existing NovaPay relationship: Existing NovaPay savings account customers with 6+ months history receive preferential processing.
+
+3. LOAN AMOUNT AND TENURE
+3.1 Minimum loan amount: INR 50,000
+3.2 Maximum loan amount: INR 40,00,000 (subject to eligibility assessment)
+3.3 Loan tenure: 12 months to 60 months
+3.4 Pre-approved offers: Select customers with CIBIL score above 750 and NovaPay relationship above 12 months may receive pre-approved offers with instant disbursal.
+
+4. INTEREST RATES AND FEES
+4.1 Interest rates: 10.99% to 24% per annum (reducing balance method), based on credit profile
+4.2 Processing fee: 1% to 2% of loan amount + GST (non-refundable)
+4.3 Prepayment charges:
+    - Within 12 months of disbursal: 4% of outstanding principal
+    - After 12 months: 2% of outstanding principal
+    - No prepayment charges after 36 months
+4.4 Late payment penalty: 2% per month on overdue EMI amount
+
+5. REQUIRED DOCUMENTS
+5.1 Salaried customers:
+    - Last 3 months salary slips
+    - Last 6 months bank statement (showing salary credits)
+    - Form 16 or ITR for last 2 years
+    - Aadhaar and PAN card
+    - Employment letter or offer letter
+
+5.2 Self-employed customers:
+    - ITR with computation for last 2 years
+    - Last 12 months business bank statement
+    - Business registration certificate
+    - GST registration (if applicable)
+    - Aadhaar and PAN card
+
+6. APPLICATION AND DISBURSAL PROCESS
+6.1 Applications submitted via NovaPay app or website are acknowledged within 1 working day.
+6.2 Document verification: 2–3 working days
+6.3 Credit assessment and approval: 3–5 working days
+6.4 Loan agreement signing: Digital signing via OTP authentication
+6.5 Disbursal: Within 24 hours of agreement signing, directly to NovaPay savings account
+
+7. LOAN REJECTION
+7.1 Customers will receive a rejection reason within 7 working days of application.
+7.2 Common rejection reasons: Low CIBIL score, insufficient income, incomplete documents, existing high debt obligations.
+7.3 Rejected applicants may reapply after 90 days.
+7.4 Customers have the right to obtain a free credit report from CIBIL to understand rejection reasons.

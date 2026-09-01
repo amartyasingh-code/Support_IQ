@@ -1,0 +1,48 @@
+NOVAPAY DIGITAL BANK
+SAVINGS ACCOUNT TERMS AND CONDITIONS
+Document ID: POL-SAV-001 | Version 2.4 | Effective: January 1, 2026
+
+1. ACCOUNT ELIGIBILITY
+1.1 NovaPay Savings Accounts are available to Indian residents aged 18 years and above.
+1.2 Non-Resident Indians (NRIs) are not eligible for standard savings accounts and must apply for NRE/NRO accounts separately.
+1.3 Each customer may hold a maximum of 3 individual savings accounts with NovaPay Digital Bank.
+1.4 Joint accounts are permitted with a maximum of 3 account holders.
+
+2. MINIMUM BALANCE REQUIREMENTS
+2.1 NovaPay Zero Balance Account: No minimum balance required. Available to all verified KYC customers.
+2.2 NovaPay Classic Savings Account: Minimum Average Monthly Balance (AMB) of INR 5,000.
+2.3 NovaPay Premium Savings Account: Minimum Average Monthly Balance (AMB) of INR 25,000.
+2.4 Non-maintenance of minimum balance will attract a penalty charge as follows:
+    - Classic Account: INR 150 per month for shortfall up to 50%; INR 300 per month for shortfall above 50%
+    - Premium Account: INR 500 per month for shortfall up to 50%; INR 750 per month for shortfall above 50%
+
+3. INTEREST RATES
+3.1 Interest on savings account balances is calculated on a daily basis and credited quarterly.
+3.2 Current interest rates (subject to change with 30 days notice):
+    - Balance up to INR 1,00,000: 3.50% per annum
+    - Balance INR 1,00,001 to INR 10,00,000: 4.00% per annum
+    - Balance above INR 10,00,000: 4.25% per annum
+3.3 Interest rates are reviewed by the Asset Liability Management Committee (ALCO) quarterly.
+
+4. TRANSACTION LIMITS
+4.1 ATM cash withdrawals: Maximum INR 50,000 per day (Classic); INR 1,00,000 per day (Premium).
+4.2 UPI transactions: Maximum INR 1,00,000 per transaction; INR 2,00,000 per day.
+4.3 NEFT/RTGS: No upper limit; subject to RBI guidelines.
+4.4 IMPS: Maximum INR 5,00,000 per transaction.
+4.5 International transactions: Disabled by default; must be enabled via app or branch request.
+
+5. ACCOUNT CLOSURE
+5.1 Customers may request account closure at any time via the NovaPay app, customer support, or branch visit.
+5.2 Accounts closed within 12 months of opening will attract a closure fee of INR 500.
+5.3 Zero Balance Accounts: No closure fee at any time.
+5.4 All pending transactions must be settled before closure. Outstanding dues will be recovered from the closing balance.
+5.5 Remaining balance will be transferred to the customer's linked account within 5 working days of closure.
+
+6. DORMANCY POLICY
+6.1 An account with no customer-initiated transactions for 12 consecutive months is classified as Inactive.
+6.2 An account with no customer-initiated transactions for 24 consecutive months is classified as Dormant.
+6.3 Dormant accounts are frozen for debit transactions only; interest continues to accrue.
+6.4 To reactivate a dormant account, customers must visit a NovaPay branch with valid KYC documents.
+
+7. DEPOSIT INSURANCE
+7.1 All NovaPay savings account deposits are insured by the Deposit Insurance and Credit Guarantee Corporation (DICGC) up to INR 5,00,000 per depositor per bank.

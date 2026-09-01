@@ -1,0 +1,71 @@
+NOVAPAY DIGITAL BANK
+FRAUD CLAIM AND ESCALATION POLICY
+Document ID: POL-FRD-008 | Version 2.2 | Effective: January 1, 2026
+
+1. DEFINITION OF FRAUD
+For the purposes of this policy, fraud includes:
+1.1 Unauthorized access to customer accounts via phishing, SIM swapping, or social engineering
+1.2 Unauthorized card transactions (physical card theft, card skimming, CNP — Card Not Present fraud)
+1.3 Unauthorized UPI/NEFT/IMPS/RTGS transactions initiated without customer consent
+1.4 Identity theft — fraudulent account opening using customer's identity
+1.5 Internal fraud — unauthorized transactions by NovaPay employees (handled under separate internal policy)
+
+2. IMMEDIATE STEPS FOR FRAUD VICTIMS
+2.1 Block all cards immediately via NovaPay app (Cards → Block Card) or call 1800-XXX-XXXX.
+2.2 Change UPI PIN and internet banking password immediately.
+2.3 Report the fraud to NovaPay fraud team within 3 days for zero liability protection eligibility.
+2.4 File a complaint with Cybercrime portal (cybercrime.gov.in) or local police station.
+2.5 Preserve all evidence: SMS alerts, email communications, call recordings if any.
+
+3. REPORTING FRAUD TO NOVAPAY
+3.1 Channels:
+    - Emergency Fraud Hotline: 1800-XXX-YYYY (24x7, dedicated fraud response team)
+    - Email: fraud@novapay.in (response within 2 hours during business hours)
+    - NovaPay app: Help → Report Fraud
+    - Branch visit with written complaint
+
+3.2 Information required:
+    - Account number / card number
+    - Fraudulent transaction details (date, amount, transaction ID)
+    - How the fraud occurred (if known)
+    - Police complaint number (if filed)
+
+4. FRAUD INVESTIGATION PROCESS
+4.1 NovaPay acknowledges fraud report within 2 hours (business hours) or by next working day.
+4.2 Provisional credit (for eligible cases) issued within 10 working days.
+4.3 Full investigation completed within 45 working days as per RBI mandate.
+4.4 Customer kept informed of investigation progress at minimum every 15 working days.
+
+5. LIABILITY FRAMEWORK (AS PER RBI CIRCULAR RBI/2017-18/15)
+5.1 Zero customer liability when:
+    - Fraud due to NovaPay system or employee negligence (regardless of reporting time)
+    - Fraud reported within 3 working days of the fraudulent transaction
+    - Third-party breach where customer has not contributed to the fraud
+
+5.2 Limited customer liability (reported 4–7 working days after fraud):
+    - Transactions up to INR 10,000: Zero liability
+    - Transactions INR 10,001 to INR 1,00,000: Maximum liability INR 10,000
+    - Transactions above INR 1,00,000: Maximum liability INR 25,000
+
+5.3 Full customer liability when:
+    - Customer shared credentials (PIN, OTP, password) with anyone
+    - Fraud reported after 7 working days
+    - Customer negligence contributed to the fraud
+
+6. ESCALATION FRAMEWORK
+6.1 Level 1: NovaPay Fraud Response Team (first point of contact, resolution target: 45 working days)
+6.2 Level 2: NovaPay Grievance Officer (if dissatisfied with Level 1 resolution; within 30 days of final response)
+    - Email: grievance@novapay.in
+    - Written complaint to: Grievance Officer, NovaPay Digital Bank, [Address]
+    - Resolution target: 30 days
+6.3 Level 3: RBI Banking Ombudsman (if unresolved after Level 2 or no response within 30 days)
+    - Portal: bankingombudsman.rbi.org.in
+    - No fee for filing complaint with Ombudsman
+6.4 Level 4: Consumer Court or Civil Court (legal remedy)
+
+7. FRAUD PREVENTION TIPS
+7.1 NovaPay will NEVER ask for OTP, PIN, CVV, or full card number via phone or email.
+7.2 Always verify UPI payment requests before approving — collecting money never requires UPI PIN entry.
+7.3 Enable transaction alerts for all transactions above INR 1 via NovaPay app settings.
+7.4 Regularly review account statements and report discrepancies immediately.
+7.5 Use strong, unique passwords for NovaPay internet banking and change them every 90 days.

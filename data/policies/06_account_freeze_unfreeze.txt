@@ -1,0 +1,61 @@
+NOVAPAY DIGITAL BANK
+ACCOUNT FREEZE AND UNFREEZE POLICY
+Document ID: POL-FRZ-006 | Version 1.3 | Effective: January 1, 2026
+
+1. OVERVIEW
+NovaPay Digital Bank may freeze customer accounts under specific circumstances to protect customer funds, comply with regulatory requirements, or investigate suspicious activity. This policy outlines the reasons for account freezes, the freeze process, and how customers can request an unfreeze.
+
+2. REASONS FOR ACCOUNT FREEZE
+2.1 Customer-initiated freeze:
+    - Customer reports suspected unauthorized access or card/credentials compromise
+    - Customer requests temporary freeze via app for security purposes
+
+2.2 Bank-initiated freeze (regulatory/compliance):
+    - Court order or government directive
+    - RBI or PMLA-related freeze order
+    - Income Tax Department attachment order
+    - Non-compliance with KYC renewal requirements (partial freeze — debit blocked only)
+
+2.3 Bank-initiated freeze (fraud/risk):
+    - Multiple failed login attempts indicating potential account takeover
+    - Unusual transaction pattern flagged by fraud detection systems
+    - Chargebacks or disputes indicating potential fraud
+    - AML (Anti-Money Laundering) investigation triggered
+
+3. TYPES OF FREEZE
+3.1 Full Freeze: Both debit and credit transactions are blocked. Account balance is preserved. Applicable for court orders, regulatory directions, or confirmed fraud.
+
+3.2 Debit Freeze: Only outgoing transactions are blocked. Credits (salary, transfers in) continue to be accepted. Applicable for KYC non-compliance, suspected unauthorized access pending investigation.
+
+3.3 Temporary Freeze: Customer-initiated via app. Maximum duration 30 days; auto-unfreezes after 30 days if not renewed. Can be lifted by customer at any time via app authentication.
+
+4. CUSTOMER NOTIFICATION
+4.1 For customer-initiated freezes: Instant confirmation via app and SMS.
+4.2 For bank-initiated fraud/risk freezes: SMS and email notification within 2 hours of freeze.
+4.3 For regulatory/court-ordered freezes: NovaPay will notify the customer unless the court order specifically prohibits notification.
+4.4 Notification will include: reason for freeze, type of freeze (full/debit), estimated resolution timeline, and steps to resolve.
+
+5. UNFREEZE PROCESS
+5.1 Customer-initiated freeze: Lifted instantly via NovaPay app using biometric or OTP authentication.
+
+5.2 KYC non-compliance freeze: Lifted within 24 hours of successful KYC completion.
+
+5.3 Fraud investigation freeze:
+    - Customer must contact NovaPay fraud team: fraud@novapay.in or 1800-XXX-YYYY
+    - Required: Identity verification, explanation of flagged transactions
+    - Resolution: 5–7 working days pending investigation outcome
+    - If investigation clears the customer, freeze is lifted and any wrongly blocked transactions are processed
+
+5.4 Regulatory/court-ordered freeze: Lifted only upon receipt of court vacation order or regulatory clearance. NovaPay cannot override court orders.
+
+6. IMPACT OF FREEZE ON LINKED SERVICES
+6.1 EMI deductions: Scheduled EMIs will be attempted. If debit is frozen, EMI failure may result in late payment charges — customers should contact NovaPay proactively.
+6.2 UPI: Disabled during full freeze; disabled for outgoing payments during debit freeze.
+6.3 Credit card: Not directly affected by savings account freeze unless the card is specifically flagged.
+6.4 Fixed deposits linked to the account: Interest credits continue; premature withdrawal not permitted during full freeze.
+
+7. COMPENSATION FOR WRONGFUL FREEZE
+7.1 If NovaPay initiates a bank-level freeze that is subsequently found to be erroneous, customers are entitled to:
+    - Reversal of any penalty charges incurred due to the freeze
+    - Interest on funds frozen for more than 7 working days (at savings account rate)
+    - Written apology from NovaPay Grievance Officer

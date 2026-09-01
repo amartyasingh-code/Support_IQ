@@ -1,0 +1,71 @@
+NOVAPAY DIGITAL BANK
+CUSTOMER GRIEVANCE REDRESSAL POLICY
+Document ID: POL-GRV-009 | Version 1.7 | Effective: January 1, 2026
+
+1. COMMITMENT
+NovaPay Digital Bank is committed to resolving customer grievances fairly, transparently, and within defined timelines. This policy is aligned with RBI guidelines on Customer Service and the Banking Ombudsman Scheme 2006 (amended 2021).
+
+2. WHAT CONSTITUTES A GRIEVANCE
+2.1 Any complaint about NovaPay products, services, staff conduct, or policy application.
+2.2 Non-adherence to RBI guidelines on customer service.
+2.3 Failure to respond to customer requests within committed timelines.
+2.4 Unauthorized charges or incorrect deductions.
+2.5 Discrimination or unfair treatment.
+
+3. GRIEVANCE SUBMISSION CHANNELS
+3.1 NovaPay App: Help & Support → Raise a Complaint (fastest channel; auto-generates complaint ID)
+3.2 Customer Support: 1800-XXX-XXXX (24x7 for critical issues; 8 AM – 8 PM for general complaints)
+3.3 Email: support@novapay.in
+3.4 Branch: Written complaint submitted to Branch Manager
+3.5 Post: Written complaint to NovaPay Customer Service Centre, [Address]
+
+4. ACKNOWLEDGMENT AND RESOLUTION TIMELINES
+4.1 All complaints are acknowledged within 24 hours with a unique complaint reference number.
+4.2 Resolution timelines by category:
+    - Account-related queries (balance, statement): 3 working days
+    - Transaction disputes (UPI, NEFT, IMPS): 5–7 working days
+    - Card-related complaints: 7–10 working days
+    - KYC-related issues: 5 working days
+    - Loan-related complaints: 10 working days
+    - Fraud complaints: 45 working days (as per RBI mandate)
+    - General service complaints: 7 working days
+4.3 If resolution requires more time, NovaPay will communicate the revised timeline with reasons.
+
+5. ESCALATION LEVELS
+5.1 Level 1 — Customer Support Team:
+    - First point of contact for all complaints
+    - Target resolution: As per Section 4.2 timelines above
+
+5.2 Level 2 — Nodal Officer:
+    - For complaints unresolved at Level 1, or if customer is dissatisfied with Level 1 response
+    - Contact: nodal.officer@novapay.in | 1800-XXX-ZZZZ
+    - Resolution target: 10 working days from escalation
+
+5.3 Level 3 — Principal Nodal Officer / Grievance Officer:
+    - For complaints unresolved at Level 2
+    - Contact: grievance@novapay.in
+    - Written complaints: Principal Nodal Officer, NovaPay Digital Bank, [Address]
+    - Resolution target: 30 days from escalation
+
+5.4 Level 4 — RBI Banking Ombudsman:
+    - Applicable if: No response from NovaPay within 30 days, or customer dissatisfied with final response
+    - Portal: bankingombudsman.rbi.org.in
+    - No complaint fee; free service for banking customers
+
+6. COMPLAINT TRACKING
+6.1 Customers can track complaint status via NovaPay app using the complaint reference number.
+6.2 SMS updates are sent at each stage of resolution.
+6.3 Complaints are closed only after customer confirmation or after 7 days of the final resolution communication with no customer response.
+
+7. COMPENSATION POLICY
+7.1 Compensation for service failures is governed by RBI's Compensation Policy.
+7.2 Automatic compensation (no claim needed):
+    - Failed ATM transactions not reversed within 5 working days: INR 100 per day of delay
+    - Failed UPI transactions not reversed within timelines: INR 100 per day of delay
+    - Cheque returns due to bank error: INR 150 per instance
+7.3 Discretionary compensation may be offered for significant service failures at NovaPay's discretion.
+
+8. QUALITY AND MONITORING
+8.1 NovaPay's Customer Service Quality team reviews a sample of resolved complaints monthly.
+8.2 Repeat complaints on the same issue trigger a root cause analysis.
+8.3 Annual complaint data is published in NovaPay's Annual Report as per RBI disclosure requirements.

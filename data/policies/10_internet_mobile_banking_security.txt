@@ -1,0 +1,78 @@
+NOVAPAY DIGITAL BANK
+INTERNET AND MOBILE BANKING SECURITY POLICY
+Document ID: POL-SEC-010 | Version 2.5 | Effective: January 1, 2026
+
+1. OVERVIEW
+NovaPay Digital Bank employs multiple layers of security to protect customer accounts accessed via internet banking (novapay.in) and the NovaPay mobile app (iOS and Android). This policy outlines security measures, customer responsibilities, and procedures for handling security incidents.
+
+2. AUTHENTICATION MECHANISMS
+2.1 Two-Factor Authentication (2FA): Mandatory for all internet banking and app logins.
+    - Factor 1: Password (minimum 8 characters; must include uppercase, lowercase, number, and special character)
+    - Factor 2: OTP via registered mobile number (valid for 5 minutes)
+
+2.2 Biometric Authentication: Available on supported devices for app login after initial 2FA setup.
+
+2.3 MPIN: 6-digit Mobile PIN for quick app access (after full authentication is completed at least once per session).
+
+2.4 Device Binding: NovaPay app can be active on maximum 2 registered devices simultaneously. Adding a new device requires full 2FA authentication and deregisters the oldest device if the limit is reached.
+
+3. SESSION MANAGEMENT
+3.1 Internet banking sessions automatically expire after 10 minutes of inactivity.
+3.2 App sessions expire after 30 minutes of inactivity.
+3.3 Customers are advised to always log out after each session, especially on shared or public devices.
+3.4 Concurrent sessions from different devices/locations trigger an automatic security alert via SMS.
+
+4. TRANSACTION SECURITY
+4.1 All high-value transactions (above INR 50,000) require additional OTP confirmation regardless of login method.
+4.2 New beneficiary addition has a 4-hour cooling period before the first transaction can be made.
+4.3 International transaction enablement requires OTP + email confirmation.
+4.4 Transaction limits can be set by customers via app (lower than bank-set maximums).
+
+5. CUSTOMER SECURITY RESPONSIBILITIES
+5.1 Customers must:
+    - Keep login credentials, OTPs, and PINs strictly confidential
+    - Use strong, unique passwords and change them every 90 days
+    - Keep the NovaPay app updated to the latest version
+    - Ensure their registered mobile number is always active and secure
+    - Log out of internet banking after each session
+    - Not use public Wi-Fi for banking transactions
+
+5.2 Customers must NOT:
+    - Share OTP, password, MPIN, or CVV with anyone — including NovaPay representatives
+    - Click on links in unsolicited emails or SMS claiming to be from NovaPay
+    - Install apps from unverified sources that claim to provide banking services
+    - Allow remote access to their device for "banking assistance"
+
+6. SECURITY ALERTS AND NOTIFICATIONS
+6.1 NovaPay sends real-time SMS and push notifications for:
+    - Every debit transaction above INR 1
+    - Login from a new device or location
+    - Password or MPIN change
+    - New beneficiary addition
+    - Failed login attempts (after 3 consecutive failures)
+6.2 Customers should contact NovaPay immediately if they receive alerts for transactions or activities they did not initiate.
+
+7. ACCOUNT LOCKOUT POLICY
+7.1 Internet banking: Account is locked after 5 consecutive failed login attempts. Unlock via OTP on registered mobile or branch visit.
+7.2 App: App is locked after 3 consecutive failed MPIN attempts. Unlock requires full 2FA re-authentication.
+7.3 UPI: UPI PIN is blocked after 3 consecutive failed attempts. Reset via NovaPay app with debit card details.
+
+8. PHISHING AND SOCIAL ENGINEERING
+8.1 NovaPay will NEVER:
+    - Ask for OTP, password, PIN, or CVV via phone, email, or SMS
+    - Send links asking customers to log in for "verification" or "KYC update"
+    - Ask customers to install remote access apps (TeamViewer, AnyDesk, etc.) for banking help
+8.2 Official NovaPay communications come only from @novapay.in email domain and the registered sender ID NOVAPAY in SMS.
+8.3 Suspected phishing attempts should be reported to phishing@novapay.in with screenshots.
+
+9. DATA ENCRYPTION AND INFRASTRUCTURE SECURITY
+9.1 All data transmitted between customer devices and NovaPay servers is encrypted using TLS 1.3.
+9.2 Customer financial data is stored in encrypted form in RBI-compliant data centres located within India.
+9.3 NovaPay undergoes annual VAPT (Vulnerability Assessment and Penetration Testing) by CERT-In empanelled auditors.
+9.4 NovaPay is ISO 27001 certified for Information Security Management.
+
+10. SECURITY INCIDENT REPORTING
+10.1 Security incidents (suspected account compromise, phishing, unauthorized access) must be reported immediately:
+    - Emergency Security Hotline: 1800-XXX-YYYY (24x7)
+    - Email: security@novapay.in
+10.2 NovaPay's Security Operations Centre (SOC) operates 24x7 and responds to critical security incidents within 1 hour.

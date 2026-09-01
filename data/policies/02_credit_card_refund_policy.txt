@@ -1,0 +1,48 @@
+NOVAPAY DIGITAL BANK
+CREDIT CARD REFUND AND DISPUTE RESOLUTION POLICY
+Document ID: POL-CC-002 | Version 1.8 | Effective: January 1, 2026
+
+1. SCOPE
+This policy applies to all NovaPay credit card holders (NovaPay Classic Card, NovaPay Rewards Card, NovaPay Platinum Card) for disputed transactions, refund claims, and chargeback requests.
+
+2. TYPES OF DISPUTES COVERED
+2.1 Unauthorized transactions — transactions not initiated by the cardholder
+2.2 Merchant disputes — goods/services not received, not as described, or defective
+2.3 Duplicate charges — same transaction charged more than once
+2.4 Incorrect amount — amount charged differs from the agreed purchase amount
+2.5 ATM disputes — cash not dispensed but account debited
+
+3. REPORTING TIMELINE
+3.1 Customers must report disputed transactions within 30 days of the transaction date for domestic transactions.
+3.2 For international transactions, the reporting window is 45 days from the transaction date.
+3.3 Disputes raised beyond these timelines will be reviewed at NovaPay's discretion and may not be eligible for chargeback.
+3.4 Unauthorized transaction disputes must be reported immediately (within 3 days) to qualify for zero liability protection.
+
+4. ZERO LIABILITY PROTECTION
+4.1 Customers are not liable for unauthorized transactions IF:
+    - The card was reported lost/stolen before the transaction occurred, OR
+    - The transaction occurred due to NovaPay system error, OR
+    - The dispute is reported within 3 days of the unauthorized transaction
+4.2 Customer liability for unauthorized transactions reported between 4–7 days: Maximum INR 10,000.
+4.3 Customer liability for unauthorized transactions reported after 7 days: Up to full transaction amount.
+
+5. DISPUTE RESOLUTION PROCESS
+5.1 Step 1: Customer raises dispute via NovaPay app, customer support helpline (1800-XXX-XXXX), or email (disputes@novapay.in).
+5.2 Step 2: NovaPay issues a provisional credit within 10 working days for disputes under INR 50,000.
+5.3 Step 3: NovaPay investigates the dispute with the merchant/payment network (Visa/Mastercard). Investigation period: up to 45 working days.
+5.4 Step 4: Final resolution communicated to customer. If dispute is upheld, provisional credit becomes permanent. If rejected, provisional credit is reversed with explanation.
+
+6. REFUND PROCESSING
+6.1 Merchant-initiated refunds (returns/cancellations) are credited to the credit card account within 5–10 working days of merchant processing.
+6.2 Refunds do not earn reward points.
+6.3 If the original transaction earned reward points, those points will be reversed upon refund.
+6.4 Refunds on EMI transactions: The outstanding EMI amount will be adjusted; processing fee is non-refundable.
+
+7. CHARGEBACK RIGHTS
+7.1 NovaPay will initiate a chargeback with Visa/Mastercard on the customer's behalf if the merchant fails to resolve the dispute within 15 days.
+7.2 Chargeback success is subject to Visa/Mastercard network rules and is not guaranteed.
+7.3 If chargeback is rejected by the network, NovaPay will communicate the reason and any further escalation options.
+
+8. ESCALATION
+8.1 If unsatisfied with the resolution, customers may escalate to the NovaPay Grievance Officer within 30 days of the final resolution communication.
+8.2 Further escalation: RBI Banking Ombudsman (bankingombudsman.rbi.org.in).
