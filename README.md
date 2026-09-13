@@ -6,7 +6,7 @@ A production-grade, multi-agent AI system that automates the complete customer s
 
 ---
 
-## 📌 What It Does
+## 📌 What It Does-
 
 A customer submits a support ticket. Five specialized AI agents collaborate to:
 1. Classify the ticket's intent and priority

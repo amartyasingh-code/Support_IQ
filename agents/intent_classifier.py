@@ -15,11 +15,9 @@ import os
 from typing import Literal
 from pydantic import BaseModel
 from langchain_groq import ChatGroq
-from dotenv import load_dotenv
+from config import GROQ_API_KEY
 
 from state import SupportIQState
-
-load_dotenv()
 
 
 class IntentOutput(BaseModel):
